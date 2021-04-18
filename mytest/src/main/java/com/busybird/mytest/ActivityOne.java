@@ -42,10 +42,6 @@ public class ActivityOne extends AppCompatActivity {
         });
 
     }
-//    public void jumpToTwo(View v) {
-//        Intent intent = new Intent(this, ScrollingActivity.class);
-//        startActivity(intent);
-//    }
 
 
     @Override
