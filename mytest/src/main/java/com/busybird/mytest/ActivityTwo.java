@@ -8,11 +8,11 @@ import android.view.View;
 import android.widget.Button;
 
 /**
+ * 第二个界面
  * Created by WuSihai on 2018/1/31.
  */
 
 public class ActivityTwo extends Activity {
-
 
     private CheckView checkView;
     private Button btn_check;
